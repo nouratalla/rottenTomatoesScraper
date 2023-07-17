@@ -17,6 +17,7 @@ Rotten Tomatoes : base_site = "https://editorial.rottentomatoes.com/guide/140-es
 - Inspect code of website
 - Make request to server (obtain html)
 - Create beautiful soup object
+- Choose Parser
 - process data obtained
 - Exporting Data to CSV and Excel filesprocess data obtained
 
