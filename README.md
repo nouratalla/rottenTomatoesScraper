@@ -4,7 +4,7 @@
 </div>
 
 ## :star: Website
-Rotten Tomatoes : base_site = "https://editorial.rottentomatoes.com/guide/140-essential-action-movies-to-watch-now/"
+Rotten Tomatoes : https://editorial.rottentomatoes.com/guide/140-essential-action-movies-to-watch-now/
 
 
 ## :star: Libraries 
